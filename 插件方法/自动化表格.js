@@ -36,9 +36,6 @@ function makeTable(id, _data) {
 
 
 /*  ------------------------------------------------------------
-
-----------目前样式依赖layui的layui-table-------------------------
-
 <div id="_form" style="margin: 10px;"></div>
 var _data = [
   {
